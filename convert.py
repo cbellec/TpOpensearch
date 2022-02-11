@@ -2,9 +2,9 @@
 import json
 import pandas
 
-# defination des path des path des fichiers d'entrer et de sorti
+# defination des path des path du fichier d'entré
+
 in_file = "LoL.csv"
-out_file = "data2.json"
 
 input = pandas.read_csv(in_file, sep=';')
 
@@ -16,7 +16,7 @@ input.Ban_percent = pandas.to_numeric(input['Ban_percent'].str[:-1])
 i = 1
 
 # Boucle pour parse le fichier .csv
-with open('legends2.json', 'w+') as outfile:
+with open('legends.json', 'w+') as outfile:
     for row in input.to_dict('records'):
         # definition de l'entête nécessaire au _bulk d'OpenSearch
         index_line = '{"index": {"_index": "legends", "_id": %s }}\n' % (i)
