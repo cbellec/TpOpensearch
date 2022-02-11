@@ -1,0 +1,468 @@
+{"index": {"_index": "legends", "_id": 1 }}
+{"Name": "Aatrox", "Class": "Fighter", "Role": "TOP", "Tier": "A", "Score": 55.11, "Trend": -3.14, "Win_percent": 48.97, "Role_percent": 94.09, "Pick_percent": 4.33, "Ban_percent": 1.97, "KDA": 1.92}
+{"index": {"_index": "legends", "_id": 2 }}
+{"Name": "Ahri", "Class": "Mage", "Role": "MID", "Tier": "A", "Score": 55.85, "Trend": 2.64, "Win_percent": 50.71, "Role_percent": 93.24, "Pick_percent": 4.56, "Ban_percent": 1.04, "KDA": 2.55}
+{"index": {"_index": "legends", "_id": 3 }}
+{"Name": "Akali", "Class": "Assassin", "Role": "TOP", "Tier": "God", "Score": 87.73, "Trend": 29.87, "Win_percent": 49.7, "Role_percent": 44.38, "Pick_percent": 6.19, "Ban_percent": 21.71, "KDA": 2.13}
+{"index": {"_index": "legends", "_id": 4 }}
+{"Name": "Akali", "Class": "Assassin", "Role": "MID", "Tier": "S", "Score": 74.58, "Trend": 9.28, "Win_percent": 49.85, "Role_percent": 55.4, "Pick_percent": 8.26, "Ban_percent": 21.71, "KDA": 2.42}
+{"index": {"_index": "legends", "_id": 5 }}
+{"Name": "Akshan", "Class": "Marksman", "Role": "MID", "Tier": "S", "Score": 63.49, "Trend": 3.64, "Win_percent": 51.94, "Role_percent": 59.7, "Pick_percent": 4.86, "Ban_percent": 23.1, "KDA": 2.28}
+{"index": {"_index": "legends", "_id": 6 }}
+{"Name": "Akshan", "Class": "Marksman", "Role": "TOP", "Tier": "A", "Score": 56.86, "Trend": 0.98, "Win_percent": 51.71, "Role_percent": 33.35, "Pick_percent": 2.7, "Ban_percent": 23.1, "KDA": 2.0}
+{"index": {"_index": "legends", "_id": 7 }}
+{"Name": "Alistar", "Class": "Tank", "Role": "SUPPORT", "Tier": "B", "Score": 43.57, "Trend": -2.51, "Win_percent": 50.07, "Role_percent": 98.09, "Pick_percent": 3.26, "Ban_percent": 0.67, "KDA": 2.5}
+{"index": {"_index": "legends", "_id": 8 }}
+{"Name": "Amumu", "Class": "Tank", "Role": "JUNGLE", "Tier": "A", "Score": 53.55, "Trend": 7.86, "Win_percent": 52.93, "Role_percent": 86.38, "Pick_percent": 3.74, "Ban_percent": 1.64, "KDA": 2.68}
+{"index": {"_index": "legends", "_id": 9 }}
+{"Name": "Amumu", "Class": "Tank", "Role": "SUPPORT", "Tier": "D", "Score": 31.37, "Trend": -4.51, "Win_percent": 50.03, "Role_percent": 12.29, "Pick_percent": 0.36, "Ban_percent": 1.64, "KDA": 2.05}
+{"index": {"_index": "legends", "_id": 10 }}
+{"Name": "Anivia", "Class": "Mage", "Role": "MID", "Tier": "A", "Score": 54.65, "Trend": 1.28, "Win_percent": 52.2, "Role_percent": 82.13, "Pick_percent": 3.2, "Ban_percent": 2.91, "KDA": 2.63}
+{"index": {"_index": "legends", "_id": 11 }}
+{"Name": "Anivia", "Class": "Mage", "Role": "SUPPORT", "Tier": "D", "Score": 25.66, "Trend": -6.07, "Win_percent": 47.11, "Role_percent": 11.75, "Pick_percent": 0.4, "Ban_percent": 2.92, "KDA": 2.14}
+{"index": {"_index": "legends", "_id": 12 }}
+{"Name": "Annie", "Class": "Mage", "Role": "MID", "Tier": "B", "Score": 45.69, "Trend": -3.12, "Win_percent": 50.77, "Role_percent": 84.72, "Pick_percent": 1.99, "Ban_percent": 0.65, "KDA": 2.39}
+{"index": {"_index": "legends", "_id": 13 }}
+{"Name": "Aphelios", "Class": "Marksman", "Role": "ADC", "Tier": "C", "Score": 37.52, "Trend": 1.55, "Win_percent": 47.3, "Role_percent": 98.31, "Pick_percent": 6.45, "Ban_percent": 1.26, "KDA": 2.04}
+{"index": {"_index": "legends", "_id": 14 }}
+{"Name": "Ashe", "Class": "Marksman", "Role": "ADC", "Tier": "C", "Score": 36.88, "Trend": -6.2, "Win_percent": 48.52, "Role_percent": 90.75, "Pick_percent": 4.4, "Ban_percent": 0.83, "KDA": 2.27}
+{"index": {"_index": "legends", "_id": 15 }}
+{"Name": "Aurelion Sol", "Class": "Mage", "Role": "MID", "Tier": "B", "Score": 41.78, "Trend": -0.37, "Win_percent": 50.45, "Role_percent": 88.01, "Pick_percent": 0.89, "Ban_percent": 0.26, "KDA": 2.53}
+{"index": {"_index": "legends", "_id": 16 }}
+{"Name": "Azir", "Class": "Mage", "Role": "MID", "Tier": "C", "Score": 33.91, "Trend": 1.22, "Win_percent": 47.43, "Role_percent": 92.57, "Pick_percent": 1.11, "Ban_percent": 0.2, "KDA": 2.09}
+{"index": {"_index": "legends", "_id": 17 }}
+{"Name": "Bard", "Class": "Support", "Role": "SUPPORT", "Tier": "A", "Score": 48.36, "Trend": -1.45, "Win_percent": 50.65, "Role_percent": 97.43, "Pick_percent": 3.58, "Ban_percent": 0.87, "KDA": 3.01}
+{"index": {"_index": "legends", "_id": 18 }}
+{"Name": "Blitzcrank", "Class": "Tank", "Role": "SUPPORT", "Tier": "S", "Score": 72.94, "Trend": 5.14, "Win_percent": 52.8, "Role_percent": 99.27, "Pick_percent": 8.28, "Ban_percent": 18.58, "KDA": 2.46}
+{"index": {"_index": "legends", "_id": 19 }}
+{"Name": "Brand", "Class": "Mage", "Role": "SUPPORT", "Tier": "B", "Score": 41.45, "Trend": -3.75, "Win_percent": 48.71, "Role_percent": 75.97, "Pick_percent": 4.18, "Ban_percent": 5.4, "KDA": 1.78}
+{"index": {"_index": "legends", "_id": 20 }}
+{"Name": "Brand", "Class": "Mage", "Role": "MID", "Tier": "B", "Score": 37.88, "Trend": -3.33, "Win_percent": 50.04, "Role_percent": 14.02, "Pick_percent": 0.8, "Ban_percent": 5.92, "KDA": 1.98}
+{"index": {"_index": "legends", "_id": 21 }}
+{"Name": "Braum", "Class": "Support", "Role": "SUPPORT", "Tier": "B", "Score": 40.45, "Trend": -6.29, "Win_percent": 49.42, "Role_percent": 99.06, "Pick_percent": 2.44, "Ban_percent": 0.33, "KDA": 2.74}
+{"index": {"_index": "legends", "_id": 22 }}
+{"Name": "Caitlyn", "Class": "Marksman", "Role": "ADC", "Tier": "God", "Score": 84.24, "Trend": -4.25, "Win_percent": 50.12, "Role_percent": 98.5, "Pick_percent": 18.96, "Ban_percent": 19.84, "KDA": 2.31}
+{"index": {"_index": "legends", "_id": 23 }}
+{"Name": "Camille", "Class": "Fighter", "Role": "TOP", "Tier": "God", "Score": 81.87, "Trend": -2.74, "Win_percent": 50.36, "Role_percent": 96.9, "Pick_percent": 6.64, "Ban_percent": 6.65, "KDA": 2.0}
+{"index": {"_index": "legends", "_id": 24 }}
+{"Name": "Cassiopeia", "Class": "Mage", "Role": "MID", "Tier": "A", "Score": 47.6, "Trend": 3.52, "Win_percent": 51.63, "Role_percent": 71.07, "Pick_percent": 2.39, "Ban_percent": 1.43, "KDA": 2.13}
+{"index": {"_index": "legends", "_id": 25 }}
+{"Name": "Cassiopeia", "Class": "Mage", "Role": "TOP", "Tier": "D", "Score": 28.42, "Trend": 2.22, "Win_percent": 50.83, "Role_percent": 19.16, "Pick_percent": 0.67, "Ban_percent": 1.39, "KDA": 1.81}
+{"index": {"_index": "legends", "_id": 26 }}
+{"Name": "Cho'Gath", "Class": "Tank", "Role": "TOP", "Tier": "A", "Score": 47.05, "Trend": -5.71, "Win_percent": 50.94, "Role_percent": 68.83, "Pick_percent": 2.57, "Ban_percent": 0.87, "KDA": 2.14}
+{"index": {"_index": "legends", "_id": 27 }}
+{"Name": "Cho'Gath", "Class": "Tank", "Role": "MID", "Tier": "B", "Score": 38.75, "Trend": 1.0, "Win_percent": 50.0, "Role_percent": 19.46, "Pick_percent": 0.53, "Ban_percent": 0.87, "KDA": 2.38}
+{"index": {"_index": "legends", "_id": 28 }}
+{"Name": "Corki", "Class": "Marksman", "Role": "MID", "Tier": "S", "Score": 68.01, "Trend": 9.82, "Win_percent": 49.34, "Role_percent": 93.02, "Pick_percent": 8.73, "Ban_percent": 6.56, "KDA": 2.17}
+{"index": {"_index": "legends", "_id": 29 }}
+{"Name": "Darius", "Class": "Fighter", "Role": "TOP", "Tier": "God", "Score": 83.17, "Trend": -0.79, "Win_percent": 48.79, "Role_percent": 95.8, "Pick_percent": 6.72, "Ban_percent": 15.35, "KDA": 1.85}
+{"index": {"_index": "legends", "_id": 30 }}
+{"Name": "Diana", "Class": "Fighter", "Role": "JUNGLE", "Tier": "God", "Score": 91.29, "Trend": 8.33, "Win_percent": 51.25, "Role_percent": 86.44, "Pick_percent": 13.02, "Ban_percent": 19.18, "KDA": 2.46}
+{"index": {"_index": "legends", "_id": 31 }}
+{"Name": "Diana", "Class": "Fighter", "Role": "MID", "Tier": "B", "Score": 46.58, "Trend": -2.47, "Win_percent": 51.14, "Role_percent": 12.82, "Pick_percent": 1.94, "Ban_percent": 19.18, "KDA": 2.16}
+{"index": {"_index": "legends", "_id": 32 }}
+{"Name": "Dr. Mundo", "Class": "Marksman", "Role": "TOP", "Tier": "A", "Score": 58.14, "Trend": -4.59, "Win_percent": 51.06, "Role_percent": 91.82, "Pick_percent": 3.73, "Ban_percent": 2.69, "KDA": 2.19}
+{"index": {"_index": "legends", "_id": 33 }}
+{"Name": "Draven", "Class": "Fighter", "Role": "ADC", "Tier": "B", "Score": 44.81, "Trend": -1.56, "Win_percent": 50.93, "Role_percent": 94.91, "Pick_percent": 5.33, "Ban_percent": 10.37, "KDA": 2.16}
+{"index": {"_index": "legends", "_id": 34 }}
+{"Name": "Ekko", "Class": "Assassin", "Role": "JUNGLE", "Tier": "A", "Score": 57.22, "Trend": 1.29, "Win_percent": 50.44, "Role_percent": 64.85, "Pick_percent": 6.17, "Ban_percent": 3.99, "KDA": 2.74}
+{"index": {"_index": "legends", "_id": 35 }}
+{"Name": "Ekko", "Class": "Assassin", "Role": "MID", "Tier": "A", "Score": 49.04, "Trend": 2.26, "Win_percent": 50.64, "Role_percent": 33.14, "Pick_percent": 3.03, "Ban_percent": 3.99, "KDA": 2.29}
+{"index": {"_index": "legends", "_id": 36 }}
+{"Name": "Elise", "Class": "Mage", "Role": "JUNGLE", "Tier": "B", "Score": 41.41, "Trend": 0.82, "Win_percent": 50.37, "Role_percent": 95.75, "Pick_percent": 2.12, "Ban_percent": 1.56, "KDA": 2.56}
+{"index": {"_index": "legends", "_id": 37 }}
+{"Name": "Evelynn", "Class": "Assassin", "Role": "JUNGLE", "Tier": "A", "Score": 47.98, "Trend": -0.06, "Win_percent": 50.07, "Role_percent": 98.88, "Pick_percent": 3.35, "Ban_percent": 8.33, "KDA": 2.92}
+{"index": {"_index": "legends", "_id": 38 }}
+{"Name": "Ezreal", "Class": "Marksman", "Role": "ADC", "Tier": "S", "Score": 71.21, "Trend": -4.77, "Win_percent": 48.8, "Role_percent": 97.15, "Pick_percent": 18.07, "Ban_percent": 5.07, "KDA": 2.36}
+{"index": {"_index": "legends", "_id": 39 }}
+{"Name": "Fiddlesticks", "Class": "Mage", "Role": "JUNGLE", "Tier": "B", "Score": 44.63, "Trend": -1.37, "Win_percent": 50.43, "Role_percent": 93.42, "Pick_percent": 2.75, "Ban_percent": 2.53, "KDA": 2.7}
+{"index": {"_index": "legends", "_id": 40 }}
+{"Name": "Fiora", "Class": "Fighter", "Role": "TOP", "Tier": "God", "Score": 78.31, "Trend": 3.22, "Win_percent": 50.41, "Role_percent": 97.66, "Pick_percent": 6.17, "Ban_percent": 10.46, "KDA": 1.77}
+{"index": {"_index": "legends", "_id": 41 }}
+{"Name": "Fizz", "Class": "Assassin", "Role": "MID", "Tier": "A", "Score": 52.91, "Trend": 0.66, "Win_percent": 50.17, "Role_percent": 96.17, "Pick_percent": 4.08, "Ban_percent": 4.45, "KDA": 2.44}
+{"index": {"_index": "legends", "_id": 42 }}
+{"Name": "Galio", "Class": "Tank", "Role": "MID", "Tier": "B", "Score": 44.05, "Trend": -2.81, "Win_percent": 49.33, "Role_percent": 61.58, "Pick_percent": 1.98, "Ban_percent": 0.43, "KDA": 2.65}
+{"index": {"_index": "legends", "_id": 43 }}
+{"Name": "Galio", "Class": "Tank", "Role": "SUPPORT", "Tier": "D", "Score": 28.64, "Trend": -8.25, "Win_percent": 47.11, "Role_percent": 35.02, "Pick_percent": 1.08, "Ban_percent": 0.43, "KDA": 2.28}
+{"index": {"_index": "legends", "_id": 44 }}
+{"Name": "Gangplank", "Class": "Fighter", "Role": "TOP", "Tier": "A", "Score": 60.8, "Trend": -4.78, "Win_percent": 47.01, "Role_percent": 87.53, "Pick_percent": 5.44, "Ban_percent": 4.02, "KDA": 1.98}
+{"index": {"_index": "legends", "_id": 45 }}
+{"Name": "Gangplank", "Class": "Fighter", "Role": "MID", "Tier": "B", "Score": 37.83, "Trend": 1.26, "Win_percent": 49.29, "Role_percent": 12.8, "Pick_percent": 0.8, "Ban_percent": 4.0, "KDA": 2.28}
+{"index": {"_index": "legends", "_id": 46 }}
+{"Name": "Garen", "Class": "Fighter", "Role": "TOP", "Tier": "God", "Score": 77.32, "Trend": 3.32, "Win_percent": 50.46, "Role_percent": 88.37, "Pick_percent": 6.33, "Ban_percent": 2.42, "KDA": 2.06}
+{"index": {"_index": "legends", "_id": 47 }}
+{"Name": "Gnar", "Class": "Fighter", "Role": "TOP", "Tier": "A", "Score": 47.37, "Trend": 0.28, "Win_percent": 49.37, "Role_percent": 97.96, "Pick_percent": 3.21, "Ban_percent": 0.65, "KDA": 2.03}
+{"index": {"_index": "legends", "_id": 48 }}
+{"Name": "Gragas", "Class": "Fighter", "Role": "TOP", "Tier": "B", "Score": 42.66, "Trend": 5.2, "Win_percent": 48.39, "Role_percent": 50.02, "Pick_percent": 2.72, "Ban_percent": 0.4, "KDA": 2.28}
+{"index": {"_index": "legends", "_id": 49 }}
+{"Name": "Gragas", "Class": "Fighter", "Role": "JUNGLE", "Tier": "C", "Score": 34.6, "Trend": -1.51, "Win_percent": 47.84, "Role_percent": 34.19, "Pick_percent": 1.6, "Ban_percent": 0.4, "KDA": 2.7}
+{"index": {"_index": "legends", "_id": 50 }}
+{"Name": "Graves", "Class": "Marksman", "Role": "JUNGLE", "Tier": "A", "Score": 55.91, "Trend": -3.92, "Win_percent": 49.66, "Role_percent": 70.68, "Pick_percent": 6.37, "Ban_percent": 6.21, "KDA": 2.61}
+{"index": {"_index": "legends", "_id": 51 }}
+{"Name": "Graves", "Class": "Marksman", "Role": "TOP", "Tier": "C", "Score": 36.78, "Trend": -6.0, "Win_percent": 49.53, "Role_percent": 22.57, "Pick_percent": 2.01, "Ban_percent": 6.21, "KDA": 1.76}
+{"index": {"_index": "legends", "_id": 52 }}
+{"Name": "Gwen", "Class": "Fighter", "Role": "TOP", "Tier": "S", "Score": 66.53, "Trend": 11.88, "Win_percent": 49.14, "Role_percent": 75.56, "Pick_percent": 5.66, "Ban_percent": 4.2, "KDA": 1.74}
+{"index": {"_index": "legends", "_id": 53 }}
+{"Name": "Gwen", "Class": "Fighter", "Role": "JUNGLE", "Tier": "C", "Score": 37.68, "Trend": -0.99, "Win_percent": 49.7, "Role_percent": 21.69, "Pick_percent": 1.73, "Ban_percent": 4.2, "KDA": 2.38}
+{"index": {"_index": "legends", "_id": 54 }}
+{"Name": "Hecarim", "Class": "Fighter", "Role": "JUNGLE", "Tier": "God", "Score": 80.61, "Trend": 9.35, "Win_percent": 50.86, "Role_percent": 99.35, "Pick_percent": 10.45, "Ban_percent": 15.56, "KDA": 3.0}
+{"index": {"_index": "legends", "_id": 55 }}
+{"Name": "Heimerdinger", "Class": "Mage", "Role": "MID", "Tier": "B", "Score": 39.53, "Trend": 3.64, "Win_percent": 51.01, "Role_percent": 34.57, "Pick_percent": 0.79, "Ban_percent": 0.8, "KDA": 1.95}
+{"index": {"_index": "legends", "_id": 56 }}
+{"Name": "Heimerdinger", "Class": "Mage", "Role": "ADC", "Tier": "C", "Score": 35.21, "Trend": 1.2, "Win_percent": 52.58, "Role_percent": 11.94, "Pick_percent": 0.23, "Ban_percent": 0.8, "KDA": 2.14}
+{"index": {"_index": "legends", "_id": 57 }}
+{"Name": "Heimerdinger", "Class": "Mage", "Role": "SUPPORT", "Tier": "D", "Score": 30.25, "Trend": -3.59, "Win_percent": 50.36, "Role_percent": 11.31, "Pick_percent": 0.18, "Ban_percent": 0.8, "KDA": 1.79}
+{"index": {"_index": "legends", "_id": 58 }}
+{"Name": "Heimerdinger", "Class": "Mage", "Role": "TOP", "Tier": "D", "Score": 21.13, "Trend": -3.02, "Win_percent": 48.05, "Role_percent": 41.9, "Pick_percent": 0.85, "Ban_percent": 0.8, "KDA": 1.62}
+{"index": {"_index": "legends", "_id": 59 }}
+{"Name": "Illaoi", "Class": "Fighter", "Role": "TOP", "Tier": "C", "Score": 33.12, "Trend": -0.99, "Win_percent": 49.12, "Role_percent": 93.87, "Pick_percent": 1.97, "Ban_percent": 2.42, "KDA": 1.57}
+{"index": {"_index": "legends", "_id": 60 }}
+{"Name": "Irelia", "Class": "Fighter", "Role": "TOP", "Tier": "S", "Score": 75.84, "Trend": -5.51, "Win_percent": 49.48, "Role_percent": 59.75, "Pick_percent": 5.69, "Ban_percent": 19.73, "KDA": 1.61}
+{"index": {"_index": "legends", "_id": 61 }}
+{"Name": "Irelia", "Class": "Fighter", "Role": "MID", "Tier": "A", "Score": 48.39, "Trend": 0.32, "Win_percent": 49.17, "Role_percent": 39.53, "Pick_percent": 3.71, "Ban_percent": 19.73, "KDA": 1.77}
+{"index": {"_index": "legends", "_id": 62 }}
+{"Name": "Ivern", "Class": "Support", "Role": "JUNGLE", "Tier": "B", "Score": 42.61, "Trend": 3.78, "Win_percent": 50.3, "Role_percent": 84.62, "Pick_percent": 1.07, "Ban_percent": 0.29, "KDA": 3.42}
+{"index": {"_index": "legends", "_id": 63 }}
+{"Name": "Janna", "Class": "Support", "Role": "SUPPORT", "Tier": "God", "Score": 90.63, "Trend": 38.71, "Win_percent": 53.21, "Role_percent": 95.09, "Pick_percent": 12.8, "Ban_percent": 6.93, "KDA": 3.24}
+{"index": {"_index": "legends", "_id": 64 }}
+{"Name": "Jarvan IV", "Class": "Tank", "Role": "JUNGLE", "Tier": "A", "Score": 56.8, "Trend": 1.87, "Win_percent": 50.15, "Role_percent": 94.66, "Pick_percent": 5.4, "Ban_percent": 0.68, "KDA": 3.36}
+{"index": {"_index": "legends", "_id": 65 }}
+{"Name": "Jax", "Class": "Fighter", "Role": "TOP", "Tier": "S", "Score": 75.48, "Trend": -6.68, "Win_percent": 49.85, "Role_percent": 85.59, "Pick_percent": 6.21, "Ban_percent": 10.13, "KDA": 1.61}
+{"index": {"_index": "legends", "_id": 66 }}
+{"Name": "Jax", "Class": "Fighter", "Role": "JUNGLE", "Tier": "C", "Score": 34.27, "Trend": -0.43, "Win_percent": 49.82, "Role_percent": 13.13, "Pick_percent": 1.01, "Ban_percent": 9.63, "KDA": 2.17}
+{"index": {"_index": "legends", "_id": 67 }}
+{"Name": "Jayce", "Class": "Fighter", "Role": "TOP", "Tier": "S", "Score": 62.61, "Trend": -10.95, "Win_percent": 48.03, "Role_percent": 75.34, "Pick_percent": 5.61, "Ban_percent": 2.93, "KDA": 1.75}
+{"index": {"_index": "legends", "_id": 68 }}
+{"Name": "Jayce", "Class": "Fighter", "Role": "MID", "Tier": "B", "Score": 37.83, "Trend": -1.46, "Win_percent": 48.43, "Role_percent": 23.69, "Pick_percent": 1.63, "Ban_percent": 2.93, "KDA": 2.05}
+{"index": {"_index": "legends", "_id": 69 }}
+{"Name": "Jhin", "Class": "Marksman", "Role": "ADC", "Tier": "God", "Score": 92.76, "Trend": -1.47, "Win_percent": 51.35, "Role_percent": 98.76, "Pick_percent": 22.86, "Ban_percent": 5.69, "KDA": 3.02}
+{"index": {"_index": "legends", "_id": 70 }}
+{"Name": "Jinx", "Class": "Marksman", "Role": "ADC", "Tier": "God", "Score": 86.87, "Trend": 0.11, "Win_percent": 51.32, "Role_percent": 99.54, "Pick_percent": 21.6, "Ban_percent": 7.36, "KDA": 2.41}
+{"index": {"_index": "legends", "_id": 71 }}
+{"Name": "Kai'Sa", "Class": "Marksman", "Role": "ADC", "Tier": "S", "Score": 63.18, "Trend": -12.33, "Win_percent": 49.33, "Role_percent": 97.46, "Pick_percent": 14.32, "Ban_percent": 3.72, "KDA": 2.4}
+{"index": {"_index": "legends", "_id": 72 }}
+{"Name": "Kalista", "Class": "Marksman", "Role": "ADC", "Tier": "D", "Score": 24.25, "Trend": -7.26, "Win_percent": 46.32, "Role_percent": 84.85, "Pick_percent": 1.22, "Ban_percent": 0.25, "KDA": 2.18}
+{"index": {"_index": "legends", "_id": 73 }}
+{"Name": "Karma", "Class": "Mage", "Role": "SUPPORT", "Tier": "S", "Score": 65.56, "Trend": 2.13, "Win_percent": 48.15, "Role_percent": 90.53, "Pick_percent": 10.08, "Ban_percent": 4.3, "KDA": 2.71}
+{"index": {"_index": "legends", "_id": 74 }}
+{"Name": "Karthus", "Class": "Mage", "Role": "ADC", "Tier": "B", "Score": 39.39, "Trend": -2.87, "Win_percent": 53.61, "Role_percent": 17.97, "Pick_percent": 0.75, "Ban_percent": 2.84, "KDA": 2.25}
+{"index": {"_index": "legends", "_id": 75 }}
+{"Name": "Karthus", "Class": "Mage", "Role": "JUNGLE", "Tier": "C", "Score": 34.38, "Trend": -5.2, "Win_percent": 47.93, "Role_percent": 60.54, "Pick_percent": 1.93, "Ban_percent": 2.84, "KDA": 2.4}
+{"index": {"_index": "legends", "_id": 76 }}
+{"Name": "Karthus", "Class": "Mage", "Role": "MID", "Tier": "C", "Score": 32.38, "Trend": -9.75, "Win_percent": 47.8, "Role_percent": 12.27, "Pick_percent": 0.35, "Ban_percent": 2.84, "KDA": 2.16}
+{"index": {"_index": "legends", "_id": 77 }}
+{"Name": "Kassadin", "Class": "Assassin", "Role": "MID", "Tier": "A", "Score": 57.13, "Trend": -1.03, "Win_percent": 50.93, "Role_percent": 97.06, "Pick_percent": 4.25, "Ban_percent": 12.61, "KDA": 2.48}
+{"index": {"_index": "legends", "_id": 78 }}
+{"Name": "Katarina", "Class": "Assassin", "Role": "MID", "Tier": "S", "Score": 64.23, "Trend": 2.24, "Win_percent": 50.1, "Role_percent": 95.1, "Pick_percent": 6.95, "Ban_percent": 9.05, "KDA": 2.33}
+{"index": {"_index": "legends", "_id": 79 }}
+{"Name": "Kayle", "Class": "Fighter", "Role": "TOP", "Tier": "A", "Score": 50.22, "Trend": 1.97, "Win_percent": 51.31, "Role_percent": 76.24, "Pick_percent": 3.13, "Ban_percent": 1.17, "KDA": 1.81}
+{"index": {"_index": "legends", "_id": 80 }}
+{"Name": "Kayle", "Class": "Fighter", "Role": "MID", "Tier": "B", "Score": 39.88, "Trend": -0.86, "Win_percent": 50.47, "Role_percent": 21.82, "Pick_percent": 0.82, "Ban_percent": 1.17, "KDA": 2.21}
+{"index": {"_index": "legends", "_id": 81 }}
+{"Name": "Kayn", "Class": "Fighter", "Role": "JUNGLE", "Tier": "S", "Score": 69.15, "Trend": 0.04, "Win_percent": 50.04, "Role_percent": 98.36, "Pick_percent": 9.58, "Ban_percent": 11.28, "KDA": 2.4}
+{"index": {"_index": "legends", "_id": 82 }}
+{"Name": "Kennen", "Class": "Mage", "Role": "MID", "Tier": "B", "Score": 39.08, "Trend": -1.32, "Win_percent": 50.63, "Role_percent": 15.48, "Pick_percent": 0.33, "Ban_percent": 0.5, "KDA": 2.32}
+{"index": {"_index": "legends", "_id": 83 }}
+{"Name": "Kennen", "Class": "Mage", "Role": "TOP", "Tier": "C", "Score": 32.74, "Trend": -2.75, "Win_percent": 48.31, "Role_percent": 83.61, "Pick_percent": 1.86, "Ban_percent": 0.54, "KDA": 1.94}
+{"index": {"_index": "legends", "_id": 84 }}
+{"Name": "Kha'Zix", "Class": "Assassin", "Role": "JUNGLE", "Tier": "S", "Score": 62.7, "Trend": 2.45, "Win_percent": 50.87, "Role_percent": 98.77, "Pick_percent": 7.59, "Ban_percent": 6.82, "KDA": 2.52}
+{"index": {"_index": "legends", "_id": 85 }}
+{"Name": "Kindred", "Class": "Marksman", "Role": "JUNGLE", "Tier": "A", "Score": 50.02, "Trend": 3.33, "Win_percent": 51.51, "Role_percent": 94.64, "Pick_percent": 4.22, "Ban_percent": 2.8, "KDA": 2.31}
+{"index": {"_index": "legends", "_id": 86 }}
+{"Name": "Kled", "Class": "Fighter", "Role": "TOP", "Tier": "B", "Score": 42.36, "Trend": 2.09, "Win_percent": 51.37, "Role_percent": 88.65, "Pick_percent": 1.64, "Ban_percent": 0.75, "KDA": 2.37}
+{"index": {"_index": "legends", "_id": 87 }}
+{"Name": "Kog'Maw", "Class": "Marksman", "Role": "ADC", "Tier": "C", "Score": 37.52, "Trend": -2.28, "Win_percent": 52.15, "Role_percent": 87.56, "Pick_percent": 1.48, "Ban_percent": 0.32, "KDA": 2.2}
+{"index": {"_index": "legends", "_id": 88 }}
+{"Name": "LeBlanc", "Class": "Assassin", "Role": "MID", "Tier": "A", "Score": 58.36, "Trend": -0.79, "Win_percent": 48.82, "Role_percent": 95.6, "Pick_percent": 5.3, "Ban_percent": 10.47, "KDA": 2.85}
+{"index": {"_index": "legends", "_id": 89 }}
+{"Name": "Lee Sin", "Class": "Fighter", "Role": "JUNGLE", "Tier": "God", "Score": 91.81, "Trend": -0.08, "Win_percent": 48.25, "Role_percent": 95.08, "Pick_percent": 15.18, "Ban_percent": 14.82, "KDA": 2.79}
+{"index": {"_index": "legends", "_id": 90 }}
+{"Name": "Leona", "Class": "Tank", "Role": "SUPPORT", "Tier": "S", "Score": 65.56, "Trend": 0.12, "Win_percent": 49.66, "Role_percent": 99.47, "Pick_percent": 8.88, "Ban_percent": 12.63, "KDA": 2.35}
+{"index": {"_index": "legends", "_id": 91 }}
+{"Name": "Lillia", "Class": "Fighter", "Role": "JUNGLE", "Tier": "B", "Score": 41.81, "Trend": -0.7, "Win_percent": 49.65, "Role_percent": 85.81, "Pick_percent": 2.52, "Ban_percent": 0.79, "KDA": 2.68}
+{"index": {"_index": "legends", "_id": 92 }}
+{"Name": "Lillia", "Class": "Fighter", "Role": "TOP", "Tier": "D", "Score": 26.39, "Trend": 2.06, "Win_percent": 50.49, "Role_percent": 11.81, "Pick_percent": 0.37, "Ban_percent": 0.86, "KDA": 1.97}
+{"index": {"_index": "legends", "_id": 93 }}
+{"Name": "Lissandra", "Class": "Mage", "Role": "MID", "Tier": "A", "Score": 47.8, "Trend": 0.51, "Win_percent": 50.33, "Role_percent": 91.26, "Pick_percent": 2.78, "Ban_percent": 0.6, "KDA": 2.42}
+{"index": {"_index": "legends", "_id": 94 }}
+{"Name": "Lucian", "Class": "Marksman", "Role": "ADC", "Tier": "B", "Score": 44.26, "Trend": -4.22, "Win_percent": 49.63, "Role_percent": 82.69, "Pick_percent": 6.59, "Ban_percent": 2.0, "KDA": 2.24}
+{"index": {"_index": "legends", "_id": 95 }}
+{"Name": "Lucian", "Class": "Marksman", "Role": "MID", "Tier": "D", "Score": 29.43, "Trend": 0.0, "Win_percent": 46.36, "Role_percent": 11.24, "Pick_percent": 0.73, "Ban_percent": 2.0, "KDA": 1.92}
+{"index": {"_index": "legends", "_id": 96 }}
+{"Name": "Lulu", "Class": "Support", "Role": "SUPPORT", "Tier": "God", "Score": 92.89, "Trend": -0.68, "Win_percent": 50.03, "Role_percent": 96.96, "Pick_percent": 12.81, "Ban_percent": 22.69, "KDA": 3.04}
+{"index": {"_index": "legends", "_id": 97 }}
+{"Name": "Lux", "Class": "Mage", "Role": "SUPPORT", "Tier": "God", "Score": 85.6, "Trend": 3.31, "Win_percent": 49.38, "Role_percent": 67.15, "Pick_percent": 13.76, "Ban_percent": 11.63, "KDA": 2.5}
+{"index": {"_index": "legends", "_id": 98 }}
+{"Name": "Lux", "Class": "Mage", "Role": "MID", "Tier": "S", "Score": 66.68, "Trend": -0.24, "Win_percent": 50.55, "Role_percent": 29.74, "Pick_percent": 6.26, "Ban_percent": 11.63, "KDA": 2.91}
+{"index": {"_index": "legends", "_id": 99 }}
+{"Name": "Malphite", "Class": "Tank", "Role": "TOP", "Tier": "S", "Score": 64.73, "Trend": -2.91, "Win_percent": 50.44, "Role_percent": 76.22, "Pick_percent": 4.5, "Ban_percent": 3.85, "KDA": 2.36}
+{"index": {"_index": "legends", "_id": 100 }}
+{"Name": "Malphite", "Class": "Tank", "Role": "MID", "Tier": "C", "Score": 35.89, "Trend": -4.35, "Win_percent": 48.33, "Role_percent": 10.82, "Pick_percent": 0.7, "Ban_percent": 3.92, "KDA": 2.36}
+{"index": {"_index": "legends", "_id": 101 }}
+{"Name": "Malphite", "Class": "Tank", "Role": "SUPPORT", "Tier": "D", "Score": 20.53, "Trend": -8.64, "Win_percent": 44.43, "Role_percent": 10.85, "Pick_percent": 0.75, "Ban_percent": 3.96, "KDA": 2.0}
+{"index": {"_index": "legends", "_id": 102 }}
+{"Name": "Malzahar", "Class": "Mage", "Role": "MID", "Tier": "A", "Score": 51.65, "Trend": 2.08, "Win_percent": 51.36, "Role_percent": 90.59, "Pick_percent": 3.48, "Ban_percent": 2.87, "KDA": 2.2}
+{"index": {"_index": "legends", "_id": 103 }}
+{"Name": "Maokai", "Class": "Tank", "Role": "SUPPORT", "Tier": "B", "Score": 39.1, "Trend": -0.41, "Win_percent": 51.78, "Role_percent": 76.57, "Pick_percent": 1.27, "Ban_percent": 0.13, "KDA": 2.23}
+{"index": {"_index": "legends", "_id": 104 }}
+{"Name": "Maokai", "Class": "Tank", "Role": "TOP", "Tier": "D", "Score": 26.22, "Trend": 1.58, "Win_percent": 50.46, "Role_percent": 17.83, "Pick_percent": 0.29, "Ban_percent": 0.13, "KDA": 2.04}
+{"index": {"_index": "legends", "_id": 105 }}
+{"Name": "Master Yi", "Class": "Assassin", "Role": "JUNGLE", "Tier": "S", "Score": 63.71, "Trend": -0.88, "Win_percent": 49.59, "Role_percent": 93.62, "Pick_percent": 7.54, "Ban_percent": 17.73, "KDA": 2.04}
+{"index": {"_index": "legends", "_id": 106 }}
+{"Name": "Miss Fortune", "Class": "Marksman", "Role": "ADC", "Tier": "A", "Score": 50.19, "Trend": -0.47, "Win_percent": 51.18, "Role_percent": 94.32, "Pick_percent": 7.32, "Ban_percent": 1.85, "KDA": 2.35}
+{"index": {"_index": "legends", "_id": 107 }}
+{"Name": "Mordekaiser", "Class": "Fighter", "Role": "TOP", "Tier": "S", "Score": 72.83, "Trend": 6.88, "Win_percent": 51.57, "Role_percent": 86.49, "Pick_percent": 5.39, "Ban_percent": 5.91, "KDA": 1.84}
+{"index": {"_index": "legends", "_id": 108 }}
+{"Name": "Morgana", "Class": "Mage", "Role": "SUPPORT", "Tier": "S", "Score": 69.72, "Trend": -1.31, "Win_percent": 48.96, "Role_percent": 91.47, "Pick_percent": 8.24, "Ban_percent": 24.89, "KDA": 2.5}
+{"index": {"_index": "legends", "_id": 109 }}
+{"Name": "Nami", "Class": "Support", "Role": "SUPPORT", "Tier": "S", "Score": 72.58, "Trend": -0.71, "Win_percent": 51.66, "Role_percent": 99.61, "Pick_percent": 9.59, "Ban_percent": 1.86, "KDA": 3.22}
+{"index": {"_index": "legends", "_id": 110 }}
+{"Name": "Nasus", "Class": "Fighter", "Role": "TOP", "Tier": "S", "Score": 71.09, "Trend": 6.13, "Win_percent": 52.88, "Role_percent": 86.34, "Pick_percent": 4.76, "Ban_percent": 4.74, "KDA": 1.98}
+{"index": {"_index": "legends", "_id": 111 }}
+{"Name": "Nautilus", "Class": "Tank", "Role": "SUPPORT", "Tier": "S", "Score": 61.72, "Trend": 1.47, "Win_percent": 49.23, "Role_percent": 97.83, "Pick_percent": 8.66, "Ban_percent": 7.87, "KDA": 2.31}
+{"index": {"_index": "legends", "_id": 112 }}
+{"Name": "Neeko", "Class": "Mage", "Role": "MID", "Tier": "B", "Score": 37.9, "Trend": 0.15, "Win_percent": 48.74, "Role_percent": 63.45, "Pick_percent": 1.19, "Ban_percent": 0.28, "KDA": 2.27}
+{"index": {"_index": "legends", "_id": 113 }}
+{"Name": "Neeko", "Class": "Mage", "Role": "SUPPORT", "Tier": "D", "Score": 23.34, "Trend": -8.2, "Win_percent": 46.61, "Role_percent": 23.72, "Pick_percent": 0.45, "Ban_percent": 0.28, "KDA": 1.84}
+{"index": {"_index": "legends", "_id": 114 }}
+{"Name": "Nidalee", "Class": "Assassin", "Role": "JUNGLE", "Tier": "A", "Score": 47.84, "Trend": -1.26, "Win_percent": 49.16, "Role_percent": 92.77, "Pick_percent": 4.09, "Ban_percent": 2.4, "KDA": 2.93}
+{"index": {"_index": "legends", "_id": 115 }}
+{"Name": "Nocturne", "Class": "Assassin", "Role": "JUNGLE", "Tier": "A", "Score": 52.31, "Trend": 12.6, "Win_percent": 51.67, "Role_percent": 90.3, "Pick_percent": 4.32, "Ban_percent": 3.28, "KDA": 2.56}
+{"index": {"_index": "legends", "_id": 116 }}
+{"Name": "Nunu", "Class": "Tank", "Role": "JUNGLE", "Tier": "A", "Score": 57.3, "Trend": 1.83, "Win_percent": 52.48, "Role_percent": 89.75, "Pick_percent": 4.54, "Ban_percent": 2.66, "KDA": 2.99}
+{"index": {"_index": "legends", "_id": 117 }}
+{"Name": "Olaf", "Class": "Fighter", "Role": "JUNGLE", "Tier": "C", "Score": 35.5, "Trend": -1.11, "Win_percent": 49.01, "Role_percent": 84.94, "Pick_percent": 1.58, "Ban_percent": 0.74, "KDA": 2.41}
+{"index": {"_index": "legends", "_id": 118 }}
+{"Name": "Olaf", "Class": "Fighter", "Role": "TOP", "Tier": "D", "Score": 7.43, "Trend": -3.61, "Win_percent": 44.62, "Role_percent": 15.42, "Pick_percent": 0.26, "Ban_percent": 0.75, "KDA": 1.64}
+{"index": {"_index": "legends", "_id": 119 }}
+{"Name": "Orianna", "Class": "Mage", "Role": "MID", "Tier": "A", "Score": 46.82, "Trend": -0.23, "Win_percent": 48.91, "Role_percent": 95.28, "Pick_percent": 2.94, "Ban_percent": 0.17, "KDA": 2.69}
+{"index": {"_index": "legends", "_id": 120 }}
+{"Name": "Ornn", "Class": "Tank", "Role": "TOP", "Tier": "A", "Score": 60.11, "Trend": 0.54, "Win_percent": 50.37, "Role_percent": 93.94, "Pick_percent": 4.19, "Ban_percent": 0.54, "KDA": 2.29}
+{"index": {"_index": "legends", "_id": 121 }}
+{"Name": "Pantheon", "Class": "Fighter", "Role": "MID", "Tier": "B", "Score": 39.84, "Trend": -1.7, "Win_percent": 50.03, "Role_percent": 25.82, "Pick_percent": 1.02, "Ban_percent": 0.89, "KDA": 2.23}
+{"index": {"_index": "legends", "_id": 122 }}
+{"Name": "Pantheon", "Class": "Fighter", "Role": "TOP", "Tier": "D", "Score": 31.06, "Trend": 0.27, "Win_percent": 50.5, "Role_percent": 25.56, "Pick_percent": 0.89, "Ban_percent": 0.89, "KDA": 2.02}
+{"index": {"_index": "legends", "_id": 123 }}
+{"Name": "Pantheon", "Class": "Fighter", "Role": "SUPPORT", "Tier": "D", "Score": 24.51, "Trend": -8.27, "Win_percent": 45.07, "Role_percent": 41.66, "Pick_percent": 1.72, "Ban_percent": 0.89, "KDA": 1.86}
+{"index": {"_index": "legends", "_id": 124 }}
+{"Name": "Poppy", "Class": "Tank", "Role": "TOP", "Tier": "B", "Score": 41.43, "Trend": 1.55, "Win_percent": 51.34, "Role_percent": 37.53, "Pick_percent": 1.76, "Ban_percent": 2.56, "KDA": 2.1}
+{"index": {"_index": "legends", "_id": 125 }}
+{"Name": "Poppy", "Class": "Tank", "Role": "JUNGLE", "Tier": "B", "Score": 40.78, "Trend": -0.82, "Win_percent": 49.02, "Role_percent": 55.49, "Pick_percent": 2.54, "Ban_percent": 2.56, "KDA": 2.71}
+{"index": {"_index": "legends", "_id": 126 }}
+{"Name": "Pyke", "Class": "Support", "Role": "SUPPORT", "Tier": "A", "Score": 61.21, "Trend": 1.32, "Win_percent": 49.2, "Role_percent": 88.12, "Pick_percent": 8.28, "Ban_percent": 12.0, "KDA": 2.17}
+{"index": {"_index": "legends", "_id": 127 }}
+{"Name": "Qiyana", "Class": "Assassin", "Role": "MID", "Tier": "A", "Score": 55.06, "Trend": -1.47, "Win_percent": 50.93, "Role_percent": 58.61, "Pick_percent": 4.15, "Ban_percent": 12.3, "KDA": 2.14}
+{"index": {"_index": "legends", "_id": 128 }}
+{"Name": "Qiyana", "Class": "Assassin", "Role": "JUNGLE", "Tier": "B", "Score": 39.94, "Trend": -2.94, "Win_percent": 48.76, "Role_percent": 38.22, "Pick_percent": 2.6, "Ban_percent": 12.3, "KDA": 2.39}
+{"index": {"_index": "legends", "_id": 129 }}
+{"Name": "Quinn", "Class": "Marksman", "Role": "TOP", "Tier": "C", "Score": 34.62, "Trend": -1.8, "Win_percent": 51.29, "Role_percent": 84.47, "Pick_percent": 1.22, "Ban_percent": 0.48, "KDA": 1.87}
+{"index": {"_index": "legends", "_id": 130 }}
+{"Name": "Rakan", "Class": "Support", "Role": "SUPPORT", "Tier": "A", "Score": 51.17, "Trend": -2.95, "Win_percent": 49.77, "Role_percent": 97.09, "Pick_percent": 5.1, "Ban_percent": 0.39, "KDA": 2.92}
+{"index": {"_index": "legends", "_id": 131 }}
+{"Name": "Rammus", "Class": "Tank", "Role": "JUNGLE", "Tier": "B", "Score": 44.85, "Trend": -3.3, "Win_percent": 50.7, "Role_percent": 95.79, "Pick_percent": 2.36, "Ban_percent": 3.0, "KDA": 2.86}
+{"index": {"_index": "legends", "_id": 132 }}
+{"Name": "Rek'Sai", "Class": "Fighter", "Role": "JUNGLE", "Tier": "A", "Score": 48.61, "Trend": -0.95, "Win_percent": 51.04, "Role_percent": 97.84, "Pick_percent": 3.78, "Ban_percent": 3.53, "KDA": 2.49}
+{"index": {"_index": "legends", "_id": 133 }}
+{"Name": "Rell", "Class": "Tank", "Role": "SUPPORT", "Tier": "B", "Score": 38.51, "Trend": -4.45, "Win_percent": 50.47, "Role_percent": 99.44, "Pick_percent": 1.6, "Ban_percent": 0.38, "KDA": 2.46}
+{"index": {"_index": "legends", "_id": 134 }}
+{"Name": "Renekton", "Class": "Fighter", "Role": "TOP", "Tier": "A", "Score": 54.56, "Trend": 3.96, "Win_percent": 47.73, "Role_percent": 87.59, "Pick_percent": 4.64, "Ban_percent": 2.22, "KDA": 1.91}
+{"index": {"_index": "legends", "_id": 135 }}
+{"Name": "Renekton", "Class": "Fighter", "Role": "MID", "Tier": "C", "Score": 36.68, "Trend": -4.64, "Win_percent": 49.36, "Role_percent": 11.94, "Pick_percent": 0.62, "Ban_percent": 2.22, "KDA": 2.17}
+{"index": {"_index": "legends", "_id": 136 }}
+{"Name": "Rengar", "Class": "Assassin", "Role": "JUNGLE", "Tier": "B", "Score": 38.23, "Trend": -1.11, "Win_percent": 48.08, "Role_percent": 78.19, "Pick_percent": 3.24, "Ban_percent": 3.13, "KDA": 2.22}
+{"index": {"_index": "legends", "_id": 137 }}
+{"Name": "Rengar", "Class": "Assassin", "Role": "TOP", "Tier": "D", "Score": 26.81, "Trend": 4.4, "Win_percent": 49.39, "Role_percent": 20.07, "Pick_percent": 0.87, "Ban_percent": 2.74, "KDA": 1.85}
+{"index": {"_index": "legends", "_id": 138 }}
+{"Name": "Riven", "Class": "Fighter", "Role": "TOP", "Tier": "S", "Score": 66.29, "Trend": 0.61, "Win_percent": 51.93, "Role_percent": 91.68, "Pick_percent": 4.66, "Ban_percent": 2.09, "KDA": 1.98}
+{"index": {"_index": "legends", "_id": 139 }}
+{"Name": "Rumble", "Class": "Fighter", "Role": "MID", "Tier": "B", "Score": 45.85, "Trend": 0.2, "Win_percent": 52.55, "Role_percent": 34.22, "Pick_percent": 0.68, "Ban_percent": 0.21, "KDA": 2.61}
+{"index": {"_index": "legends", "_id": 140 }}
+{"Name": "Rumble", "Class": "Fighter", "Role": "JUNGLE", "Tier": "D", "Score": 25.65, "Trend": -10.48, "Win_percent": 45.84, "Role_percent": 14.61, "Pick_percent": 0.25, "Ban_percent": 0.22, "KDA": 2.74}
+{"index": {"_index": "legends", "_id": 141 }}
+{"Name": "Rumble", "Class": "Fighter", "Role": "TOP", "Tier": "D", "Score": 21.79, "Trend": -3.54, "Win_percent": 46.9, "Role_percent": 52.08, "Pick_percent": 0.92, "Ban_percent": 0.21, "KDA": 2.01}
+{"index": {"_index": "legends", "_id": 142 }}
+{"Name": "Ryze", "Class": "Mage", "Role": "MID", "Tier": "C", "Score": 34.52, "Trend": -0.59, "Win_percent": 45.66, "Role_percent": 81.85, "Pick_percent": 2.11, "Ban_percent": 0.17, "KDA": 2.22}
+{"index": {"_index": "legends", "_id": 143 }}
+{"Name": "Ryze", "Class": "Mage", "Role": "TOP", "Tier": "D", "Score": 15.82, "Trend": 1.52, "Win_percent": 46.74, "Role_percent": 17.79, "Pick_percent": 0.44, "Ban_percent": 0.16, "KDA": 1.81}
+{"index": {"_index": "legends", "_id": 144 }}
+{"Name": "Samira", "Class": "Marksman", "Role": "ADC", "Tier": "B", "Score": 46.39, "Trend": 2.0, "Win_percent": 48.46, "Role_percent": 97.62, "Pick_percent": 7.86, "Ban_percent": 11.1, "KDA": 2.2}
+{"index": {"_index": "legends", "_id": 145 }}
+{"Name": "Sejuani", "Class": "Tank", "Role": "JUNGLE", "Tier": "B", "Score": 37.91, "Trend": -3.01, "Win_percent": 47.32, "Role_percent": 78.27, "Pick_percent": 2.27, "Ban_percent": 0.32, "KDA": 3.08}
+{"index": {"_index": "legends", "_id": 146 }}
+{"Name": "Sejuani", "Class": "Tank", "Role": "TOP", "Tier": "D", "Score": 27.49, "Trend": -3.19, "Win_percent": 49.76, "Role_percent": 17.31, "Pick_percent": 0.38, "Ban_percent": 0.33, "KDA": 2.33}
+{"index": {"_index": "legends", "_id": 147 }}
+{"Name": "Senna", "Class": "Marksman", "Role": "SUPPORT", "Tier": "God", "Score": 77.51, "Trend": 31.08, "Win_percent": 52.29, "Role_percent": 67.4, "Pick_percent": 10.67, "Ban_percent": 7.43, "KDA": 2.72}
+{"index": {"_index": "legends", "_id": 148 }}
+{"Name": "Senna", "Class": "Marksman", "Role": "ADC", "Tier": "A", "Score": 57.0, "Trend": 20.7, "Win_percent": 54.64, "Role_percent": 31.1, "Pick_percent": 4.81, "Ban_percent": 7.43, "KDA": 3.05}
+{"index": {"_index": "legends", "_id": 149 }}
+{"Name": "Seraphine", "Class": "Mage", "Role": "ADC", "Tier": "B", "Score": 43.2, "Trend": -2.01, "Win_percent": 52.97, "Role_percent": 19.41, "Pick_percent": 0.83, "Ban_percent": 0.89, "KDA": 3.02}
+{"index": {"_index": "legends", "_id": 150 }}
+{"Name": "Seraphine", "Class": "Mage", "Role": "MID", "Tier": "B", "Score": 42.66, "Trend": 0.47, "Win_percent": 50.16, "Role_percent": 16.54, "Pick_percent": 0.78, "Ban_percent": 0.89, "KDA": 2.87}
+{"index": {"_index": "legends", "_id": 151 }}
+{"Name": "Seraphine", "Class": "Mage", "Role": "SUPPORT", "Tier": "C", "Score": 37.17, "Trend": -2.55, "Win_percent": 46.97, "Role_percent": 63.41, "Pick_percent": 3.38, "Ban_percent": 0.89, "KDA": 2.46}
+{"index": {"_index": "legends", "_id": 152 }}
+{"Name": "Sett", "Class": "Fighter", "Role": "TOP", "Tier": "God", "Score": 92.52, "Trend": 2.29, "Win_percent": 50.55, "Role_percent": 84.73, "Pick_percent": 7.94, "Ban_percent": 6.95, "KDA": 1.79}
+{"index": {"_index": "legends", "_id": 153 }}
+{"Name": "Shaco", "Class": "Assassin", "Role": "JUNGLE", "Tier": "S", "Score": 62.02, "Trend": -0.89, "Win_percent": 51.45, "Role_percent": 84.29, "Pick_percent": 5.89, "Ban_percent": 16.7, "KDA": 2.72}
+{"index": {"_index": "legends", "_id": 154 }}
+{"Name": "Shaco", "Class": "Assassin", "Role": "SUPPORT", "Tier": "C", "Score": 34.5, "Trend": -9.0, "Win_percent": 49.69, "Role_percent": 11.46, "Pick_percent": 0.91, "Ban_percent": 17.55, "KDA": 2.32}
+{"index": {"_index": "legends", "_id": 155 }}
+{"Name": "Shen", "Class": "Tank", "Role": "TOP", "Tier": "S", "Score": 75.29, "Trend": -13.17, "Win_percent": 51.14, "Role_percent": 87.66, "Pick_percent": 5.12, "Ban_percent": 1.8, "KDA": 2.9}
+{"index": {"_index": "legends", "_id": 156 }}
+{"Name": "Shyvana", "Class": "Fighter", "Role": "JUNGLE", "Tier": "C", "Score": 35.65, "Trend": -0.22, "Win_percent": 49.19, "Role_percent": 82.55, "Pick_percent": 1.49, "Ban_percent": 0.25, "KDA": 2.42}
+{"index": {"_index": "legends", "_id": 157 }}
+{"Name": "Shyvana", "Class": "Fighter", "Role": "TOP", "Tier": "D", "Score": 25.19, "Trend": 1.36, "Win_percent": 50.44, "Role_percent": 14.94, "Pick_percent": 0.25, "Ban_percent": 0.25, "KDA": 1.97}
+{"index": {"_index": "legends", "_id": 158 }}
+{"Name": "Singed", "Class": "Tank", "Role": "TOP", "Tier": "B", "Score": 41.6, "Trend": 2.43, "Win_percent": 51.74, "Role_percent": 77.82, "Pick_percent": 1.77, "Ban_percent": 0.3, "KDA": 2.03}
+{"index": {"_index": "legends", "_id": 159 }}
+{"Name": "Sion", "Class": "Tank", "Role": "TOP", "Tier": "A", "Score": 53.99, "Trend": 1.18, "Win_percent": 51.49, "Role_percent": 85.87, "Pick_percent": 3.76, "Ban_percent": 0.66, "KDA": 1.6}
+{"index": {"_index": "legends", "_id": 160 }}
+{"Name": "Sivir", "Class": "Marksman", "Role": "ADC", "Tier": "C", "Score": 34.14, "Trend": -5.6, "Win_percent": 48.89, "Role_percent": 97.17, "Pick_percent": 2.3, "Ban_percent": 0.43, "KDA": 2.47}
+{"index": {"_index": "legends", "_id": 161 }}
+{"Name": "Skarner", "Class": "Fighter", "Role": "JUNGLE", "Tier": "B", "Score": 40.62, "Trend": 7.46, "Win_percent": 51.4, "Role_percent": 80.95, "Pick_percent": 0.72, "Ban_percent": 0.12, "KDA": 2.86}
+{"index": {"_index": "legends", "_id": 162 }}
+{"Name": "Skarner", "Class": "Fighter", "Role": "TOP", "Tier": "D", "Score": 27.23, "Trend": 3.34, "Win_percent": 49.98, "Role_percent": 22.86, "Pick_percent": 0.17, "Ban_percent": 0.13, "KDA": 2.44}
+{"index": {"_index": "legends", "_id": 163 }}
+{"Name": "Sona", "Class": "Support", "Role": "SUPPORT", "Tier": "A", "Score": 56.19, "Trend": -1.08, "Win_percent": 52.8, "Role_percent": 97.0, "Pick_percent": 4.56, "Ban_percent": 0.87, "KDA": 2.98}
+{"index": {"_index": "legends", "_id": 164 }}
+{"Name": "Soraka", "Class": "Support", "Role": "SUPPORT", "Tier": "A", "Score": 60.47, "Trend": -1.67, "Win_percent": 51.92, "Role_percent": 94.02, "Pick_percent": 6.45, "Ban_percent": 3.62, "KDA": 2.78}
+{"index": {"_index": "legends", "_id": 165 }}
+{"Name": "Swain", "Class": "Mage", "Role": "ADC", "Tier": "B", "Score": 42.2, "Trend": 0.87, "Win_percent": 53.42, "Role_percent": 19.62, "Pick_percent": 0.44, "Ban_percent": 1.61, "KDA": 2.86}
+{"index": {"_index": "legends", "_id": 166 }}
+{"Name": "Swain", "Class": "Mage", "Role": "MID", "Tier": "B", "Score": 40.46, "Trend": -3.56, "Win_percent": 50.58, "Role_percent": 12.07, "Pick_percent": 0.37, "Ban_percent": 1.61, "KDA": 2.57}
+{"index": {"_index": "legends", "_id": 167 }}
+{"Name": "Swain", "Class": "Mage", "Role": "SUPPORT", "Tier": "C", "Score": 36.23, "Trend": -3.83, "Win_percent": 48.42, "Role_percent": 62.39, "Pick_percent": 2.46, "Ban_percent": 1.61, "KDA": 2.26}
+{"index": {"_index": "legends", "_id": 168 }}
+{"Name": "Sylas", "Class": "Mage", "Role": "MID", "Tier": "A", "Score": 60.12, "Trend": 1.14, "Win_percent": 50.02, "Role_percent": 74.88, "Pick_percent": 6.53, "Ban_percent": 3.82, "KDA": 2.17}
+{"index": {"_index": "legends", "_id": 169 }}
+{"Name": "Sylas", "Class": "Mage", "Role": "TOP", "Tier": "C", "Score": 33.63, "Trend": 0.6, "Win_percent": 48.77, "Role_percent": 21.83, "Pick_percent": 1.88, "Ban_percent": 3.82, "KDA": 1.82}
+{"index": {"_index": "legends", "_id": 170 }}
+{"Name": "Syndra", "Class": "Mage", "Role": "MID", "Tier": "B", "Score": 46.39, "Trend": -2.88, "Win_percent": 48.47, "Role_percent": 89.34, "Pick_percent": 3.72, "Ban_percent": 1.02, "KDA": 2.24}
+{"index": {"_index": "legends", "_id": 171 }}
+{"Name": "Tahm Kench", "Class": "Support", "Role": "TOP", "Tier": "A", "Score": 53.77, "Trend": -38.03, "Win_percent": 49.7, "Role_percent": 59.04, "Pick_percent": 3.14, "Ban_percent": 10.96, "KDA": 2.38}
+{"index": {"_index": "legends", "_id": 172 }}
+{"Name": "Tahm Kench", "Class": "Support", "Role": "ADC", "Tier": "B", "Score": 45.89, "Trend": 0.0, "Win_percent": 54.76, "Role_percent": 13.21, "Pick_percent": 0.43, "Ban_percent": 10.32, "KDA": 2.97}
+{"index": {"_index": "legends", "_id": 173 }}
+{"Name": "Tahm Kench", "Class": "Support", "Role": "SUPPORT", "Tier": "C", "Score": 35.63, "Trend": 0.0, "Win_percent": 49.61, "Role_percent": 30.9, "Pick_percent": 1.31, "Ban_percent": 10.32, "KDA": 2.35}
+{"index": {"_index": "legends", "_id": 174 }}
+{"Name": "Taliyah", "Class": "Mage", "Role": "JUNGLE", "Tier": "B", "Score": 38.71, "Trend": 1.91, "Win_percent": 50.6, "Role_percent": 63.81, "Pick_percent": 1.09, "Ban_percent": 0.16, "KDA": 2.63}
+{"index": {"_index": "legends", "_id": 175 }}
+{"Name": "Taliyah", "Class": "Mage", "Role": "MID", "Tier": "C", "Score": 37.66, "Trend": -1.2, "Win_percent": 49.76, "Role_percent": 14.52, "Pick_percent": 0.24, "Ban_percent": 0.15, "KDA": 2.46}
+{"index": {"_index": "legends", "_id": 176 }}
+{"Name": "Taliyah", "Class": "Mage", "Role": "SUPPORT", "Tier": "C", "Score": 35.37, "Trend": -7.03, "Win_percent": 51.83, "Role_percent": 19.17, "Pick_percent": 0.28, "Ban_percent": 0.15, "KDA": 2.13}
+{"index": {"_index": "legends", "_id": 177 }}
+{"Name": "Talon", "Class": "Assassin", "Role": "MID", "Tier": "A", "Score": 48.19, "Trend": 4.72, "Win_percent": 51.05, "Role_percent": 51.78, "Pick_percent": 2.65, "Ban_percent": 7.51, "KDA": 2.17}
+{"index": {"_index": "legends", "_id": 178 }}
+{"Name": "Talon", "Class": "Assassin", "Role": "JUNGLE", "Tier": "C", "Score": 35.23, "Trend": -25.96, "Win_percent": 48.07, "Role_percent": 45.81, "Pick_percent": 2.16, "Ban_percent": 7.51, "KDA": 2.29}
+{"index": {"_index": "legends", "_id": 179 }}
+{"Name": "Taric", "Class": "Support", "Role": "SUPPORT", "Tier": "C", "Score": 36.84, "Trend": -5.42, "Win_percent": 49.84, "Role_percent": 89.38, "Pick_percent": 1.16, "Ban_percent": 0.13, "KDA": 2.72}
+{"index": {"_index": "legends", "_id": 180 }}
+{"Name": "Teemo", "Class": "Marksman", "Role": "TOP", "Tier": "S", "Score": 67.13, "Trend": 4.39, "Win_percent": 50.8, "Role_percent": 84.86, "Pick_percent": 4.82, "Ban_percent": 9.04, "KDA": 1.72}
+{"index": {"_index": "legends", "_id": 181 }}
+{"Name": "Thresh", "Class": "Support", "Role": "SUPPORT", "Tier": "S", "Score": 68.46, "Trend": -1.03, "Win_percent": 48.11, "Role_percent": 99.31, "Pick_percent": 11.13, "Ban_percent": 5.27, "KDA": 2.51}
+{"index": {"_index": "legends", "_id": 182 }}
+{"Name": "Tristana", "Class": "Marksman", "Role": "ADC", "Tier": "B", "Score": 44.22, "Trend": 3.93, "Win_percent": 49.89, "Role_percent": 85.54, "Pick_percent": 5.92, "Ban_percent": 2.47, "KDA": 2.36}
+{"index": {"_index": "legends", "_id": 183 }}
+{"Name": "Tristana", "Class": "Marksman", "Role": "MID", "Tier": "B", "Score": 39.85, "Trend": 4.75, "Win_percent": 51.04, "Role_percent": 11.72, "Pick_percent": 0.67, "Ban_percent": 2.47, "KDA": 2.08}
+{"index": {"_index": "legends", "_id": 184 }}
+{"Name": "Trundle", "Class": "Fighter", "Role": "JUNGLE", "Tier": "A", "Score": 54.58, "Trend": -0.54, "Win_percent": 52.39, "Role_percent": 67.5, "Pick_percent": 4.07, "Ban_percent": 3.16, "KDA": 2.83}
+{"index": {"_index": "legends", "_id": 185 }}
+{"Name": "Trundle", "Class": "Fighter", "Role": "TOP", "Tier": "B", "Score": 39.81, "Trend": -4.22, "Win_percent": 51.99, "Role_percent": 27.46, "Pick_percent": 1.72, "Ban_percent": 3.37, "KDA": 1.72}
+{"index": {"_index": "legends", "_id": 186 }}
+{"Name": "Tryndamere", "Class": "Fighter", "Role": "TOP", "Tier": "God", "Score": 83.59, "Trend": 6.98, "Win_percent": 50.31, "Role_percent": 81.76, "Pick_percent": 6.29, "Ban_percent": 16.1, "KDA": 1.87}
+{"index": {"_index": "legends", "_id": 187 }}
+{"Name": "Tryndamere", "Class": "Fighter", "Role": "MID", "Tier": "C", "Score": 37.3, "Trend": -1.01, "Win_percent": 48.85, "Role_percent": 14.11, "Pick_percent": 1.0, "Ban_percent": 16.1, "KDA": 2.11}
+{"index": {"_index": "legends", "_id": 188 }}
+{"Name": "Twisted Fate", "Class": "Mage", "Role": "MID", "Tier": "A", "Score": 51.91, "Trend": 2.33, "Win_percent": 49.53, "Role_percent": 94.14, "Pick_percent": 4.49, "Ban_percent": 1.11, "KDA": 2.33}
+{"index": {"_index": "legends", "_id": 189 }}
+{"Name": "Twitch", "Class": "Marksman", "Role": "ADC", "Tier": "A", "Score": 48.3, "Trend": -2.47, "Win_percent": 51.8, "Role_percent": 79.3, "Pick_percent": 5.71, "Ban_percent": 3.75, "KDA": 2.42}
+{"index": {"_index": "legends", "_id": 190 }}
+{"Name": "Udyr", "Class": "Fighter", "Role": "JUNGLE", "Tier": "B", "Score": 39.9, "Trend": 2.92, "Win_percent": 50.4, "Role_percent": 94.68, "Pick_percent": 1.61, "Ban_percent": 0.48, "KDA": 2.6}
+{"index": {"_index": "legends", "_id": 191 }}
+{"Name": "Urgot", "Class": "Fighter", "Role": "TOP", "Tier": "S", "Score": 62.17, "Trend": -1.75, "Win_percent": 51.91, "Role_percent": 95.88, "Pick_percent": 4.12, "Ban_percent": 2.15, "KDA": 2.04}
+{"index": {"_index": "legends", "_id": 192 }}
+{"Name": "Varus", "Class": "Marksman", "Role": "ADC", "Tier": "C", "Score": 32.57, "Trend": 1.15, "Win_percent": 48.93, "Role_percent": 92.42, "Pick_percent": 1.98, "Ban_percent": 0.17, "KDA": 2.33}
+{"index": {"_index": "legends", "_id": 193 }}
+{"Name": "Vayne", "Class": "Marksman", "Role": "ADC", "Tier": "S", "Score": 65.6, "Trend": -6.95, "Win_percent": 51.46, "Role_percent": 82.07, "Pick_percent": 11.72, "Ban_percent": 18.84, "KDA": 2.19}
+{"index": {"_index": "legends", "_id": 194 }}
+{"Name": "Vayne", "Class": "Marksman", "Role": "TOP", "Tier": "B", "Score": 38.28, "Trend": -3.59, "Win_percent": 49.31, "Role_percent": 16.1, "Pick_percent": 2.13, "Ban_percent": 18.84, "KDA": 1.53}
+{"index": {"_index": "legends", "_id": 195 }}
+{"Name": "Veigar", "Class": "Mage", "Role": "MID", "Tier": "S", "Score": 67.79, "Trend": 20.82, "Win_percent": 51.96, "Role_percent": 71.93, "Pick_percent": 7.21, "Ban_percent": 2.91, "KDA": 2.41}
+{"index": {"_index": "legends", "_id": 196 }}
+{"Name": "Veigar", "Class": "Mage", "Role": "ADC", "Tier": "B", "Score": 43.25, "Trend": 6.96, "Win_percent": 53.47, "Role_percent": 17.97, "Pick_percent": 1.69, "Ban_percent": 2.91, "KDA": 2.55}
+{"index": {"_index": "legends", "_id": 197 }}
+{"Name": "Vel'Koz", "Class": "Mage", "Role": "MID", "Tier": "B", "Score": 45.1, "Trend": 0.09, "Win_percent": 51.17, "Role_percent": 41.1, "Pick_percent": 1.19, "Ban_percent": 0.5, "KDA": 2.66}
+{"index": {"_index": "legends", "_id": 198 }}
+{"Name": "Vel'Koz", "Class": "Mage", "Role": "SUPPORT", "Tier": "B", "Score": 39.14, "Trend": -0.02, "Win_percent": 51.03, "Role_percent": 53.89, "Pick_percent": 1.76, "Ban_percent": 0.5, "KDA": 2.22}
+{"index": {"_index": "legends", "_id": 199 }}
+{"Name": "Vex", "Class": "Mage", "Role": "MID", "Tier": "S", "Score": 76.44, "Trend": -0.41, "Win_percent": 50.67, "Role_percent": 84.81, "Pick_percent": 8.5, "Ban_percent": 18.9, "KDA": 2.48}
+{"index": {"_index": "legends", "_id": 200 }}
+{"Name": "Vex", "Class": "Mage", "Role": "SUPPORT", "Tier": "D", "Score": 27.22, "Trend": -3.09, "Win_percent": 46.08, "Role_percent": 13.85, "Pick_percent": 1.43, "Ban_percent": 18.88, "KDA": 1.96}
+{"index": {"_index": "legends", "_id": 201 }}
+{"Name": "Vi", "Class": "Fighter", "Role": "JUNGLE", "Tier": "A", "Score": 55.99, "Trend": -2.46, "Win_percent": 52.49, "Role_percent": 96.27, "Pick_percent": 5.06, "Ban_percent": 2.15, "KDA": 2.46}
+{"index": {"_index": "legends", "_id": 202 }}
+{"Name": "Viego", "Class": "Assassin", "Role": "JUNGLE", "Tier": "God", "Score": 87.83, "Trend": 5.35, "Win_percent": 50.32, "Role_percent": 95.78, "Pick_percent": 13.6, "Ban_percent": 14.18, "KDA": 2.51}
+{"index": {"_index": "legends", "_id": 203 }}
+{"Name": "Viktor", "Class": "Mage", "Role": "MID", "Tier": "God", "Score": 79.21, "Trend": -2.25, "Win_percent": 50.05, "Role_percent": 86.06, "Pick_percent": 10.06, "Ban_percent": 14.36, "KDA": 2.3}
+{"index": {"_index": "legends", "_id": 204 }}
+{"Name": "Viktor", "Class": "Mage", "Role": "TOP", "Tier": "C", "Score": 32.09, "Trend": -5.5, "Win_percent": 49.18, "Role_percent": 12.26, "Pick_percent": 1.33, "Ban_percent": 14.36, "KDA": 1.89}
+{"index": {"_index": "legends", "_id": 205 }}
+{"Name": "Vladimir", "Class": "Mage", "Role": "MID", "Tier": "A", "Score": 53.47, "Trend": -2.24, "Win_percent": 50.13, "Role_percent": 74.35, "Pick_percent": 4.26, "Ban_percent": 5.74, "KDA": 2.39}
+{"index": {"_index": "legends", "_id": 206 }}
+{"Name": "Vladimir", "Class": "Mage", "Role": "TOP", "Tier": "C", "Score": 31.85, "Trend": -1.02, "Win_percent": 48.86, "Role_percent": 24.09, "Pick_percent": 1.43, "Ban_percent": 5.74, "KDA": 2.01}
+{"index": {"_index": "legends", "_id": 207 }}
+{"Name": "Volibear", "Class": "Fighter", "Role": "TOP", "Tier": "A", "Score": 52.12, "Trend": 19.91, "Win_percent": 50.94, "Role_percent": 54.41, "Pick_percent": 3.31, "Ban_percent": 1.81, "KDA": 1.97}
+{"index": {"_index": "legends", "_id": 208 }}
+{"Name": "Volibear", "Class": "Fighter", "Role": "JUNGLE", "Tier": "A", "Score": 49.51, "Trend": 9.88, "Win_percent": 52.51, "Role_percent": 43.27, "Pick_percent": 2.85, "Ban_percent": 1.81, "KDA": 2.68}
+{"index": {"_index": "legends", "_id": 209 }}
+{"Name": "Warwick", "Class": "Fighter", "Role": "JUNGLE", "Tier": "A", "Score": 52.86, "Trend": 0.08, "Win_percent": 50.29, "Role_percent": 76.78, "Pick_percent": 5.64, "Ban_percent": 5.41, "KDA": 2.24}
+{"index": {"_index": "legends", "_id": 210 }}
+{"Name": "Warwick", "Class": "Fighter", "Role": "TOP", "Tier": "C", "Score": 33.28, "Trend": 1.93, "Win_percent": 50.8, "Role_percent": 21.75, "Pick_percent": 1.11, "Ban_percent": 5.41, "KDA": 1.91}
+{"index": {"_index": "legends", "_id": 211 }}
+{"Name": "Wukong", "Class": "Fighter", "Role": "TOP", "Tier": "B", "Score": 42.31, "Trend": -0.93, "Win_percent": 50.55, "Role_percent": 77.73, "Pick_percent": 2.13, "Ban_percent": 0.6, "KDA": 2.12}
+{"index": {"_index": "legends", "_id": 212 }}
+{"Name": "Wukong", "Class": "Fighter", "Role": "JUNGLE", "Tier": "D", "Score": 28.46, "Trend": -4.46, "Win_percent": 47.71, "Role_percent": 13.65, "Pick_percent": 0.35, "Ban_percent": 0.59, "KDA": 2.43}
+{"index": {"_index": "legends", "_id": 213 }}
+{"Name": "Xayah", "Class": "Marksman", "Role": "ADC", "Tier": "B", "Score": 38.77, "Trend": -1.77, "Win_percent": 50.54, "Role_percent": 98.17, "Pick_percent": 3.1, "Ban_percent": 0.4, "KDA": 2.35}
+{"index": {"_index": "legends", "_id": 214 }}
+{"Name": "Xerath", "Class": "Mage", "Role": "MID", "Tier": "A", "Score": 55.28, "Trend": 2.03, "Win_percent": 51.28, "Role_percent": 39.07, "Pick_percent": 2.89, "Ban_percent": 5.18, "KDA": 3.26}
+{"index": {"_index": "legends", "_id": 215 }}
+{"Name": "Xerath", "Class": "Mage", "Role": "SUPPORT", "Tier": "A", "Score": 46.93, "Trend": -2.76, "Win_percent": 49.58, "Role_percent": 55.82, "Pick_percent": 4.29, "Ban_percent": 5.18, "KDA": 2.53}
+{"index": {"_index": "legends", "_id": 216 }}
+{"Name": "Xin Zhao", "Class": "Fighter", "Role": "JUNGLE", "Tier": "S", "Score": 62.72, "Trend": 5.68, "Win_percent": 50.81, "Role_percent": 96.56, "Pick_percent": 7.85, "Ban_percent": 5.2, "KDA": 2.45}
+{"index": {"_index": "legends", "_id": 217 }}
+{"Name": "Yasuo", "Class": "Fighter", "Role": "MID", "Tier": "God", "Score": 91.15, "Trend": 4.99, "Win_percent": 50.51, "Role_percent": 72.52, "Pick_percent": 11.65, "Ban_percent": 24.0, "KDA": 1.78}
+{"index": {"_index": "legends", "_id": 218 }}
+{"Name": "Yasuo", "Class": "Fighter", "Role": "TOP", "Tier": "B", "Score": 41.32, "Trend": 1.36, "Win_percent": 48.22, "Role_percent": 16.41, "Pick_percent": 2.55, "Ban_percent": 24.0, "KDA": 1.46}
+{"index": {"_index": "legends", "_id": 219 }}
+{"Name": "Yasuo", "Class": "Fighter", "Role": "ADC", "Tier": "C", "Score": 32.91, "Trend": -1.5, "Win_percent": 49.98, "Role_percent": 10.51, "Pick_percent": 1.62, "Ban_percent": 24.0, "KDA": 1.97}
+{"index": {"_index": "legends", "_id": 220 }}
+{"Name": "Yone", "Class": "Assassin", "Role": "TOP", "Tier": "S", "Score": 72.95, "Trend": 1.08, "Win_percent": 48.7, "Role_percent": 38.63, "Pick_percent": 5.3, "Ban_percent": 23.93, "KDA": 1.62}
+{"index": {"_index": "legends", "_id": 221 }}
+{"Name": "Yone", "Class": "Assassin", "Role": "MID", "Tier": "S", "Score": 72.38, "Trend": -1.79, "Win_percent": 48.24, "Role_percent": 59.62, "Pick_percent": 8.83, "Ban_percent": 23.93, "KDA": 1.85}
+{"index": {"_index": "legends", "_id": 222 }}
+{"Name": "Yorick", "Class": "Fighter", "Role": "TOP", "Tier": "A", "Score": 49.59, "Trend": 3.52, "Win_percent": 52.94, "Role_percent": 97.21, "Pick_percent": 2.69, "Ban_percent": 2.47, "KDA": 1.61}
+{"index": {"_index": "legends", "_id": 223 }}
+{"Name": "Yuumi", "Class": "Support", "Role": "SUPPORT", "Tier": "God", "Score": 87.74, "Trend": 8.01, "Win_percent": 48.07, "Role_percent": 98.86, "Pick_percent": 10.85, "Ban_percent": 27.62, "KDA": 4.1}
+{"index": {"_index": "legends", "_id": 224 }}
+{"Name": "Zac", "Class": "Tank", "Role": "JUNGLE", "Tier": "A", "Score": 55.58, "Trend": -2.24, "Win_percent": 50.98, "Role_percent": 86.05, "Pick_percent": 4.24, "Ban_percent": 2.12, "KDA": 3.47}
+{"index": {"_index": "legends", "_id": 225 }}
+{"Name": "Zed", "Class": "Assassin", "Role": "MID", "Tier": "God", "Score": 81.36, "Trend": -9.14, "Win_percent": 50.77, "Role_percent": 71.06, "Pick_percent": 7.55, "Ban_percent": 35.39, "KDA": 2.29}
+{"index": {"_index": "legends", "_id": 226 }}
+{"Name": "Zed", "Class": "Assassin", "Role": "JUNGLE", "Tier": "B", "Score": 39.25, "Trend": -9.93, "Win_percent": 47.35, "Role_percent": 25.53, "Pick_percent": 2.48, "Ban_percent": 35.39, "KDA": 2.39}
+{"index": {"_index": "legends", "_id": 227 }}
+{"Name": "Zeri", "Class": "Marksman", "Role": "ADC", "Tier": "God", "Score": 86.11, "Trend": 0.0, "Win_percent": 48.38, "Role_percent": 75.27, "Pick_percent": 17.13, "Ban_percent": 34.16, "KDA": 2.23}
+{"index": {"_index": "legends", "_id": 228 }}
+{"Name": "Zeri", "Class": "Marksman", "Role": "MID", "Tier": "B", "Score": 43.21, "Trend": 0.0, "Win_percent": 46.87, "Role_percent": 12.78, "Pick_percent": 2.69, "Ban_percent": 34.16, "KDA": 2.01}
+{"index": {"_index": "legends", "_id": 229 }}
+{"Name": "Ziggs", "Class": "Mage", "Role": "MID", "Tier": "B", "Score": 41.8, "Trend": 5.36, "Win_percent": 50.59, "Role_percent": 30.03, "Pick_percent": 0.92, "Ban_percent": 0.47, "KDA": 2.45}
+{"index": {"_index": "legends", "_id": 230 }}
+{"Name": "Ziggs", "Class": "Mage", "Role": "ADC", "Tier": "B", "Score": 41.15, "Trend": -2.48, "Win_percent": 52.23, "Role_percent": 63.47, "Pick_percent": 1.89, "Ban_percent": 0.46, "KDA": 2.58}
+{"index": {"_index": "legends", "_id": 231 }}
+{"Name": "Zilean", "Class": "Support", "Role": "MID", "Tier": "A", "Score": 53.06, "Trend": 0.86, "Win_percent": 53.2, "Role_percent": 21.93, "Pick_percent": 0.98, "Ban_percent": 2.0, "KDA": 3.47}
+{"index": {"_index": "legends", "_id": 232 }}
+{"Name": "Zilean", "Class": "Support", "Role": "SUPPORT", "Tier": "A", "Score": 47.14, "Trend": -2.3, "Win_percent": 50.1, "Role_percent": 73.12, "Pick_percent": 3.37, "Ban_percent": 2.0, "KDA": 3.12}
+{"index": {"_index": "legends", "_id": 233 }}
+{"Name": "Zoe", "Class": "Mage", "Role": "MID", "Tier": "A", "Score": 47.71, "Trend": -2.06, "Win_percent": 49.43, "Role_percent": 94.46, "Pick_percent": 3.05, "Ban_percent": 1.17, "KDA": 2.56}
+{"index": {"_index": "legends", "_id": 234 }}
+{"Name": "Zyra", "Class": "Mage", "Role": "SUPPORT", "Tier": "A", "Score": 48.17, "Trend": -1.39, "Win_percent": 52.21, "Role_percent": 93.51, "Pick_percent": 3.68, "Ban_percent": 1.97, "KDA": 2.16}

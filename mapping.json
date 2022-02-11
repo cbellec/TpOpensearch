@@ -1,0 +1,77 @@
+{
+  "properties": {
+    "Ban %":{
+      "type":"text",
+      "fields":{
+        "raw":{
+          "type":"keyword"
+        }
+      }
+    },
+    "Class":{
+      "type":"text",
+      "fields":{
+        "raw":{
+          "type":"keyword"
+        }
+      }
+    },
+    "KDA":{
+      "type":"float"
+    },
+    "Name":{
+      "type":"text",
+      "fields":{
+        "raw":{
+          "type":"keyword"
+        }
+      }
+    },
+    "Pick %":{
+      "type":"text",
+      "fields":{
+        "raw":{
+          "type":"keyword"
+        }
+      }
+    },
+    "Role":{
+      "type":"text",
+      "fields":{
+        "raw":{
+          "type":"keyword"
+        }
+      }
+    },
+    "Role %":{
+      "type":"text",
+      "fields":{
+        "raw":{
+          "type":"keyword"
+        }
+      }
+    },
+    "Score":{
+      "type":"float"
+    },
+    "Tier":{
+      "type":"text",
+      "fields":{
+        "raw":{
+          "type":"keyword"
+        }
+      }
+    },
+    "Trend":{
+      "type":"float"
+    },
+    "Win %":{
+      "type":"text",
+      "fields":{
+        "raw":{
+          "type":"keyword"
+        }
+      }
+    }
+  }
+}
