@@ -77,6 +77,14 @@ curl -u admin:admin --insecure -XPUT https://localhost:9200/_bulk -H "Content-Ty
 
 ## Mapping
 
+Pour le mapping j'ai fait simple, j'ai indexer les champs de text en type "text" et "keyword" pour pouvoir faire de recherche
+"full text" et de recherche par terms.
+
+Pour importer le mapping, il faut utiliser la commande suivante :
+```commandline
+curl -u admin:admin --insecure -XPUT https://localhost:9200/_mapping -H "Content-Type: application/json" --data-binary @mapping.json
+```
+
 ## Requêtes
 
 - Pour ma premiere requête je vais chercher le champion le mieux classer et avec la plus haute popularité :

@@ -1,17 +1,12 @@
 {
   "properties": {
     "Ban %":{
-      "type":"text",
-      "fields":{
-        "raw":{
-          "type":"keyword"
-        }
-      }
+      "type":"float"
     },
     "Class":{
       "type":"text",
       "fields":{
-        "raw":{
+        "keyword":{
           "type":"keyword"
         }
       }
@@ -22,34 +17,24 @@
     "Name":{
       "type":"text",
       "fields":{
-        "raw":{
+        "keyword":{
           "type":"keyword"
         }
       }
     },
     "Pick %":{
-      "type":"text",
-      "fields":{
-        "raw":{
-          "type":"keyword"
-        }
-      }
+      "type":"float"
     },
     "Role":{
       "type":"text",
       "fields":{
-        "raw":{
+        "keyword":{
           "type":"keyword"
         }
       }
     },
     "Role %":{
-      "type":"text",
-      "fields":{
-        "raw":{
-          "type":"keyword"
-        }
-      }
+      "type":"float"
     },
     "Score":{
       "type":"float"
@@ -57,7 +42,7 @@
     "Tier":{
       "type":"text",
       "fields":{
-        "raw":{
+        "keyword":{
           "type":"keyword"
         }
       }
@@ -66,12 +51,7 @@
       "type":"float"
     },
     "Win %":{
-      "type":"text",
-      "fields":{
-        "raw":{
-          "type":"keyword"
-        }
-      }
+      "type":"float"
     }
   }
 }
